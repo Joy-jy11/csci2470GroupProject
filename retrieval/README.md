@@ -1,4 +1,4 @@
 # Retrieval Folder
 Folder storing retrieval-relevant code
 
-! [example of retrieval](./src/retrieval_demo.png)
+<img title="example of retrieval" src="./src/retrieval_demo.png">
